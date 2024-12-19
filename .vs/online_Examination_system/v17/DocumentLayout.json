@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\OneDrive\\Desktop\\final_project\\online_Examination_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C04E555-7D0F-4134-A55D-507E328520C7}|online_Examination_system.csproj|c:\\users\\prasa\\onedrive\\desktop\\final_project\\online_examination_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C04E555-7D0F-4134-A55D-507E328520C7}|online_Examination_system.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C04E555-7D0F-4134-A55D-507E328520C7}|online_Examination_system.csproj|c:\\users\\prasa\\onedrive\\desktop\\final_project\\online_examination_system\\models\\recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C04E555-7D0F-4134-A55D-507E328520C7}|online_Examination_system.csproj|solutionrelative:models\\recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C04E555-7D0F-4134-A55D-507E328520C7}|online_Examination_system.csproj|c:\\users\\prasa\\onedrive\\desktop\\final_project\\online_examination_system\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C04E555-7D0F-4134-A55D-507E328520C7}|online_Examination_system.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C04E555-7D0F-4134-A55D-507E328520C7}|online_Examination_system.csproj|c:\\users\\prasa\\onedrive\\desktop\\final_project\\online_examination_system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C04E555-7D0F-4134-A55D-507E328520C7}|online_Examination_system.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\final_project\\online_Examination_system\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\final_project\\online_Examination_system\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:32:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recruiter.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\final_project\\online_Examination_system\\Models\\Recruiter.cs",
+              "RelativeDocumentMoniker": "Models\\Recruiter.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\final_project\\online_Examination_system\\Models\\Recruiter.cs",
+              "RelativeToolTip": "Models\\Recruiter.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:30:58.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\final_project\\online_Examination_system\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\final_project\\online_Examination_system\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA+wCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:16:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\final_project\\online_Examination_system\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\final_project\\online_Examination_system\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:29:15.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
